@@ -198,7 +198,7 @@ h2{
 
 /*footer*/
 footer{
-    background-image: url('/images/bg-footer.png');
+    background-image: url('./images/bg-footer.png');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
